@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Chatbot<br>👯 I’m looking to collaborate on Machine Learning Projects<br>🤝 I’m looking for help with GANs<br>🌱 I’m currently learning NodeJS
+🔭 I’m currently working on SpringBoot<br>👯 I’m looking to collaborate on Software Development Projects<br>🤝 🌱 I’m currently learning NodeJS
 
 
 ## 🌐 Socials:
