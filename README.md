@@ -1,15 +1,60 @@
-# 💫 About Me:
-Hi, I'm Abhijeet 👋<br>I'm a backend developer and data engineer who loves building scalable systems and data‑driven products.<br>​<br><br>Backend: Java, Spring Boot, REST APIs, microservices, authentication/authorization, caching, testing.<br>​<br><br>Data engineering: ETL pipelines, batch/stream processing, data modeling, SQL/NoSQL, performance tuning.<br>​<br><br>Tools & platforms: Docker, Kubernetes, message queues, cloud services, CI/CD, monitoring and logging.<br>​<br><br>I enjoy designing clean APIs, optimizing queries, and turning messy datasets into reliable, production‑ready pipelines.<br>​<br>When I’m not coding, I’m usually solving DSA problems, exploring system design, or experimenting with new backend and data tools.<br>​<br><br>📫 Feel free to open an issue, drop a PR, or reach out for collaboration on backend or data engineering projects.<br>​
+# Abhijeet Chatterjee
 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhijeet418&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abhijeet418&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet418&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Software Engineer focused on backend systems, distributed architecture, and high-throughput design.
+Currently building production-grade systems in Java and Spring Boot.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhijeet418&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Experience
+
+**Software Developer** — Facade Techno Solutions *(Aug 2025 – Present)*
+- Eliminated Hibernate N+1 inefficiencies and integrated Redis caching, reducing API latency by 95% and primary DB load by 40%
+- Secured REST APIs with Spring Security, JWTs, and a custom Redis-backed token blacklist
+- Architected a polyglot persistence layer using Neon PostgreSQL and MongoDB Atlas for a high-volume chat system
+- Developed 100+ JUnit/Mockito tests covering concurrency and unauthorized access edge cases
+
+**Software Developer Intern** — Fidelity International *(Jan 2025 – Jul 2025)*
+- Modernized 10+ Java microservices for Kubernetes with Helm Charts, ArgoCD, and Spring Boot Actuator
+- Diagnosed N-1 dependency firewall issues and engineered custom application-level proxy configurations
+- Mentored engineers on Kubernetes, security standards, and containerized deployment workflows
+
+---
+
+## Projects
+
+**[Low-Latency Stock Exchange](https://api-floww.vercel.app)**
+`Java` `Spring Boot` `LMAX Disruptor` `Redis` `PostgreSQL` `Docker` `AWS`
+
+Replaced a Kafka-based engine with an LMAX Disruptor, achieving 4000% throughput improvement and
+sub-millisecond API latency via an in-memory Limit Order Book on a resource-constrained EC2 instance.
+Includes a Crash Recovery Service that restores in-memory state from PostgreSQL on startup.
+
+**[Distributed Brokerage Backend](https://arc-trading.vercel.app/)**
+`Java` `Spring Boot` `Apache Kafka` `WebSockets` `PostgreSQL` `Flyway` `Docker` `AWS`
+
+Event-driven microservices system decoupling trade execution from ledger updates via Kafka.
+Live market price ticks pushed to clients over WebSockets/STOMP. Schema evolution across 9 domains
+governed by Flyway migrations.
+
+---
+
+## Skills
+
+**Languages** — Java · Python · TypeScript · SQL · C/C++  
+**Frameworks** — Spring Boot · Spring Security · Hibernate  
+**Infrastructure** — AWS · Docker · Kubernetes · ArgoCD · Jenkins  
+**Databases** — PostgreSQL · MySQL · MongoDB · Redis · TimescaleDB  
+
+---
+
+## Education
+
+**B.Tech (Hons.) in Computer Science & Engineering (AIML)**  
+Manav Rachna International Institute of Research and Studies — 8.7 GPA *(2021 – 2025)*
+
+---
+
+<p align="right">
+  <a href="mailto:abhijeet.chatterjee418@gmail.com">Email</a> ·
+  <a href="https://abhijeet-sde.vercel.app">Portfolio</a>
+</p>
