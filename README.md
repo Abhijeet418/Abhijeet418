@@ -7,12 +7,6 @@ Currently building production-grade systems in Java and Spring Boot.
 
 ## Experience
 
-**Software Developer** — Facade Techno Solutions *(Aug 2025 – Present)*
-- Eliminated Hibernate N+1 inefficiencies and integrated Redis caching, reducing API latency by 95% and primary DB load by 40%
-- Secured REST APIs with Spring Security, JWTs, and a custom Redis-backed token blacklist
-- Architected a polyglot persistence layer using Neon PostgreSQL and MongoDB Atlas for a high-volume chat system
-- Developed 100+ JUnit/Mockito tests covering concurrency and unauthorized access edge cases
-
 **Software Developer Intern** — Fidelity International *(Jan 2025 – Jul 2025)*
 - Modernized 10+ Java microservices for Kubernetes with Helm Charts, ArgoCD, and Spring Boot Actuator
 - Diagnosed N-1 dependency firewall issues and engineered custom application-level proxy configurations
